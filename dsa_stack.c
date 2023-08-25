@@ -79,10 +79,10 @@ int main()
     firstInsert(300); 
     firstInsert(400); 
     firstInsert(500); 
-    display();
+    Display();
 
     firstDelete(); 
-    display();
+    Display();
     return 0;
 }
 
